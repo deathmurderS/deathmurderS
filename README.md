@@ -55,7 +55,7 @@ Outside of code — yeah, I like anime. Not the loud part of my profile, but it'
 
 **Alice**
 
-*NIKKE: Goddess of Victory*
+*Zenless Zone Zero*
 
 Techy, curious, always exploring. Alice feels like the kind of character who'd enjoy digging through raw API data just to see what's inside which is basically my job now.
 
