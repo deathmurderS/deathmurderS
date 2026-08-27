@@ -45,7 +45,7 @@ Outside of code — yeah, I like anime. Not the loud part of my profile, but it'
 
 ## My Top 4 · *why these characters*
 
-<sub>Personal picks. Short version: each one represents something I actually relate to — not just "cute character go brr."</sub>
+<sub>Personal picks. Short version: each one represents something I actually relate to not just "cute character go brr."</sub>
 
 <table>
 <tr>
@@ -57,7 +57,7 @@ Outside of code — yeah, I like anime. Not the loud part of my profile, but it'
 
 *NIKKE: Goddess of Victory*
 
-Techy, curious, always exploring. Alice feels like the kind of character who'd enjoy digging through raw API data just to see what's inside — which is basically my job now.
+Techy, curious, always exploring. Alice feels like the kind of character who'd enjoy digging through raw API data just to see what's inside which is basically my job now.
 
 </td>
 <td width="25%" align="center" valign="top">
@@ -68,7 +68,7 @@ Techy, curious, always exploring. Alice feels like the kind of character who'd e
 
 *Honkai: Star Rail*
 
-Soft outside, stubborn inside. She keeps moving forward even when things get heavy — kinda how I felt switching from networking/dev into data analytics and learning new stacks from scratch.
+Soft outside, stubborn inside. She keeps moving forward even when things get heavy kinda how I felt switching from networking/dev into data analytics and learning new stacks from scratch.
 
 </td>
 <td width="25%" align="center" valign="top">
@@ -79,7 +79,7 @@ Soft outside, stubborn inside. She keeps moving forward even when things get hea
 
 *Genshin Impact*
 
-Dramatic presentation, real depth underneath. Reminds me that good analytics isn't just correct numbers — it's telling a story people can actually understand. Also: great aesthetic.
+Dramatic presentation, real depth underneath. Reminds me that good analytics isn't just correct numbers it's telling a story people can actually understand. Also: great aesthetic.
 
 </td>
 <td width="25%" align="center" valign="top">
