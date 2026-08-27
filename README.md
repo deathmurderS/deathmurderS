@@ -222,18 +222,6 @@ Always iterating. Always shipping something.
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=deathmurderS&theme=tokyonight&hide_border=true&background=0d1117&ring=f5c2e7&fire=f5c2e7&currStreakLabel=f5c2e7" height="160" alt="GitHub streak stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deathmurderS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" height="160" alt="Top languages"/>
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
